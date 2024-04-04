@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://www.bookatrip.co/", // replace this with your deployed domain
   author: "Sat Naing",
   desc: "how to book a trip.",
-  title: "Book a trip",
+  title: "BookATrip",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
